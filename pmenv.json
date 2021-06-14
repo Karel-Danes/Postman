@@ -1,0 +1,14 @@
+{
+	"id": "4724ff35-6a3b-415d-885a-44b5eb8a5adc",
+	"name": "production",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://httpbin.org",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-06-14T16:40:02.916Z",
+	"_postman_exported_using": "Postman/8.6.1"
+}
